@@ -1,0 +1,16 @@
+/* @media(max-width:992px) {
+    .box p {
+        color: rgb(255, 0, 0);
+        font-size: 30px;
+    }
+}
+
+@media(max-width:868px) {
+    .box {
+        width: 800px;
+        height: 800px;
+        color: blue;
+        background-color: aqua;
+        padding: 20px;
+    }
+} */
